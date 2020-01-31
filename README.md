@@ -1,5 +1,5 @@
 # EyeTest
 
-Java jdk version :  
+Java jdk version :  jdk 13
 
-Unity version : 
+Unity version :  2018.1.9f2
